@@ -10,5 +10,15 @@
 
 ![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
 
-<h4>Tim Malang 2 bersama Dinas Bappeda Kabupaten Malang membahas mengenai masalah yang dihadapi oleh Dinas Bappeda Kabupaten Malang yang dimana masalahnya terkait monitoring dan evaluasi kinerja organisasi perangkat daerah (OPD) <h4>
+<h4>Tim Malang 2 bersama Dinas Bappeda Kabupaten Malang membahas mengenai masalah yang dihadapi oleh Dinas Bappeda Kabupaten Malang yang dimana masalahnya terkait monitoring dan evaluasi kinerja organisasi perangkat daerah (OPD) karena Dinas masih kebingungan terkait dimana informasi program dan kegiatan yang ada di Aplikasi Monitoring dan Evaluasi <h4>
+
+<h4>Oleh karena itu tim Malang 2 memiliki penyelesaian atau solusi dengan membuat sebuah website yang hampir sama dengan website sebelumnya akan tetapi terdapat beberapa revisi seperti UI design yang lebih menarik serta informasi yang kurang terkait apa yang telah disampaikan oleh Dinas Bappeda Kabupaten Malang. Aplikasi yang tim kami buat memiliki nama "Aplikasi Monitoring dan Evaluasi" atau disebut A-Monev. Website ini dibuat untuk mempermudah kinerja Dinas Bappeda Kabupaten Malang<h4>
+
+<hr>
+
+<h2>My Jobsdesk<h2>
+
+<h3>Role : UI/UX Design :art: <h3>
+
+
 
