@@ -83,25 +83,80 @@
 
 <br>
 
+- icon eye password
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/Component%201.png)
+
+<br>
+
+- Dropdown
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/Component%202.png)
+
+<br>
+
+- Status 
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/Component%203.png)
+
+<br>
+
+- Dropdown OPD
+
 ![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- Outline button
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/Outline%20button.png)
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- Progress-realisasi Kinerja
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/Progress-realisasi%20Kinerja.png)
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- Progress
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/Progress.png)
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- Target Penurunan
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/Target%20Penurunan.png)
 
 <br>
+
+- Dropdown long
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/dropdown%20long.png)
+
+<br>
+
+- input-field
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/input-field.png)
+
+<br>
+
+- input-search
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/input-search.png)
+
+<br>
+
+- kinerja akhir tahun
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/kinerja%20akhir%20tahun.png)
+
+<br>
+
+
+
 
 **Mockup**
 - Admin (Bappeda)
