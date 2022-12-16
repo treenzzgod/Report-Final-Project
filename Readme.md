@@ -37,6 +37,18 @@
 
 <hr>
 
+**User Persona**
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/User%20Persona/C-2-1.png)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/User%20Persona/C-2.png)
+
+<br>
+
 **Wireframe**
 
 <br>
@@ -159,35 +171,34 @@
 
 
 **Mockup**
+
+<br>
+
+- Login 
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Mockup/Login.png)
+
+<br>
+
 - Admin (Bappeda)
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- Realisasi kinerja fix-admin
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Mockup/Realisasi%20kinerja%20%20fix-admin.png)
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- Target kinerja fix
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Mockup/Target%20kinerja%20fix-%20admin.png)
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- Form User
 
-<br>
-
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
-
-<br>
-
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
-
-<br>
-
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
-
-<br>
-
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Mockup/Form%20User%20-%20%20admin.png)
 
 <br>
 
@@ -195,31 +206,15 @@
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- Realisasi kinerja fix-user
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Mockup/Realisasi%20kinerja%20%20fix-user.png)
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- Target kinerja fix- user
 
-<br>
-
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
-
-<br>
-
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
-
-<br>
-
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
-
-<br>
-
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
-
-<br>
-
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Mockup/Target%20kinerja%20fix-%20user.png)
 
 <br>
 
@@ -227,33 +222,96 @@
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- Edit indikator kegiatan
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/Edit%20indikator%20kegiatan.png)
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- F-realisasi kinerja triwulan
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/F-realisasi%20kinerja%20triwulan.png)
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
-
-<br>
-
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
-
-<br>
-
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
-
-<br>
+- Tambah Kegiatan
 
 ![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
 
 <br>
 
-![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+- Tambah Program
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/Tambah%20Program.png)
 
 <br>
+
+- Tambah User
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/Tambah%20User.png)
+
+<br>
+
+- Tambah indikator kegiatan
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/Tambah%20indikator%20kegiatan.png)
+
+<br>
+
+- edit Kegiatan
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/edit%20Kegiatan.png)
+
+<br>
+
+- edit Program
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/edit%20Program.png)
+
+<br>
+
+- edit indikator program
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/edit%20indikator%20program.png)
+
+<br>
+
+- tambah indikator program
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/tambah%20indikator%20program.png)
+
+<br>
+
+- Urusan
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/Frame%2084.png)
+
+<br>
+
+- Target Tahun
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/Frame%2085.png)
+
+<br>
+
+- PAGU DPPA
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/Frame%2086.png)
+
+<br>
+
+- Indikator
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/Frame%2087.png)
+
+<br>
+
+- Kegiatan
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Frame%20Pop%20Up/Frame%2077.png)
+
+<br>
+
 
 
 
