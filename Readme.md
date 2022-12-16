@@ -27,12 +27,179 @@
 
 <h3>Role : UI/UX Design :art: <h3>
 
-<h3> :page_facing_up: Kegiatan : <h3>
+<h3>Kegiatan : :page_facing_up: <h3>
 
+- Membuat User persona
 - Membuat Wireframe Aplikasi
 - Membuat Design System Aplikasi
-- Membuat Mokcup Aplikasi
+- Membuat Mockup Aplikasi
 - Membuat Prototype Aplikasi
+
+<hr>
+
+**Wireframe**
+
+<br>
+
+- Login
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Wireframe/Login.png)
+
+<br>
+
+- Realisasi Kinerja
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Wireframe/Realisasi%20kinerja%20-%20Admin.png)
+
+<br>
+
+- Target Kinerja
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Wireframe/Target%20kinerja-%20Admin.png)
+
+<br>
+
+- Form User
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Wireframe/Form%20User%20-%20%20admin.png)
+
+<br>
+
+<hr>
+
+**Design System**
+
+<br>
+
+- Alert notification
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/Alert%20notification.png)
+
+<br>
+
+- Button
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Design%20System/Button.png)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+**Mockup**
+- Admin (Bappeda)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+- User (OPD)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+**Frame Pop Up**
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
+![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/foto2.jpg)
+
+<br>
+
 
 
 
