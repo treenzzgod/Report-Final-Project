@@ -49,6 +49,8 @@
 
 <br>
 
+<hr>
+
 **Wireframe**
 
 <br>
@@ -167,8 +169,7 @@
 
 <br>
 
-
-
+<hr>
 
 **Mockup**
 
@@ -217,6 +218,8 @@
 ![logo](https://github.com/treenzzgod/Report-Final-Project/blob/master/Mockup/Target%20kinerja%20fix-%20user.png)
 
 <br>
+
+<hr>
 
 **Frame Pop Up**
 
@@ -312,6 +315,7 @@
 
 <br>
 
+<hr>
 
 
 
